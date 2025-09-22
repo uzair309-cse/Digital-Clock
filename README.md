@@ -4,7 +4,7 @@
 <br>
 -- Real-time Display
 <br>
-## Technologies Used 
+<h1>Technologies Used </h1> 
 <br>
 1. HTML => For the basic structure and layout of the clock
 <br>
